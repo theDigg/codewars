@@ -17,7 +17,7 @@
     "helmet": "^3.13.0",
     "http": "0.0.0",
     "jsonwebtoken": "^8.3.0",
-    "mongoose": "^5.2.5",
+    "mongoose": "^5.7.5",
     "mongoose-validator": "^2.1.0",
     "nuka-carousel": "^4.3.6",
     "path": "^0.12.7",
