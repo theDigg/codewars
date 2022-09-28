@@ -33,7 +33,7 @@
     "styled-components": "^3.3.3",
     "sys": "0.0.1",
     "underscore": "^1.9.1",
-    "vm2": "^3.6.3"
+    "vm2": "^3.9.11"
   },
   "scripts": {
     "start": "node src/index.js",
